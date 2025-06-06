@@ -14,6 +14,16 @@ Same as above, but this video was attached to an issue first.
 
 https://github.com/user-attachments/assets/6ef2a9f8-0b0e-4efa-978f-4521be170a34
 
+### Link to issue video
+
+<video src="https://github.com/user-attachments/assets/6ef2a9f8-0b0e-4efa-978f-4521be170a34" autoplay="" loop="" muted="" playsinline=""></video>
+
+------------------------------------------------
+
+Everything below this point doesn't actually work for whatever reason
+
+-----------------------------------------------
+
 ## Bare URL, not a user attachment
 
 https://github.com/PathogenPlayground/MiscTest2/raw/refs/heads/main/Carotid%E2%80%93Kundalini_fractal_animation.mp4
@@ -38,10 +48,6 @@ https://github.com/PathogenPlayground/MiscTest2/raw/refs/heads/main/Carotid%E2%8
 ### Link to raw URL
 
 <video src="https://github.com/PathogenPlayground/MiscTest2/raw/refs/heads/main/Carotid%E2%80%93Kundalini_fractal_animation.mp4"></video>
-
-### Link to issue video
-
-<video src="https://github.com/user-attachments/assets/6ef2a9f8-0b0e-4efa-978f-4521be170a34"></video>
 
 ## Short video HTML syntax (WebM)
 
